@@ -1,0 +1,1 @@
+Downloaded Linux operating system on to hard drive so I am able to run server and client programs finally. Starting to write program for routing commands made in the Room controller file.
