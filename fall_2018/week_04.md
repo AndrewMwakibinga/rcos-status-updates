@@ -1,0 +1,1 @@
+Was assigned room controller at the end of last weekend and committed final program to Dev. Planning on reading up on VueJS coding to be helpful in developing the front-end soon. Will pick up tasks for models and controllers in meantime once mentor generates them.
