@@ -1,0 +1,1 @@
+Completed the User Registration model during the Small Group meeting today and I will start working on the new task assigned to me of creating a live data graph for attendance. This might take me longer to accomplish since I have to look into existiing code from previous Observatory teams and improve upon it utilizing mapActions. 
