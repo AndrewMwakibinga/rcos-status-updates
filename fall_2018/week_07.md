@@ -1,0 +1,1 @@
+Last week there was some issue with merging my User Registration model commit to the dev branch, but I resubmitted so hopefully the problem is resolved. However, this week I have exams so I will not be doing much hacking. I'm hoping to get a jumpstart on the plotter during Thanksgiving break.
