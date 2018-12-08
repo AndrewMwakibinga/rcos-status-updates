@@ -1,0 +1,1 @@
+My team completed our small group presentation today and took notes as well on the audience's response (project voice more). Also, I completed my last commit for the semester of removing "Commit" module and all dependencies from other modules on it.
